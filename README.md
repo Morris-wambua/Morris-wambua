@@ -2,7 +2,7 @@
 
 ⚡ Fun fact: Recent studies show that around 70% of coding jobs have nothing to do with technology at all 😄
 
- 🌱 That's why I’m currently learning writing design patterns. 
+ 🌱 That's why I’m currently learning best design patterns. 
  
  💬 Which is the best Language to start with if not **Java Spring Framework**
  
