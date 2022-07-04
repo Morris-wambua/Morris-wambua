@@ -4,7 +4,7 @@
 
  🌱 That's why I’m currently learning best design patterns. 
  
- 💬 Which is the best Language to start with if not **Java Spring Framework**
+ 💬 Which is the best Language to start with if not **Java Spring Framework** 🤷‍♂️
  
  🔭 Ask me about Java-based development work.
  
